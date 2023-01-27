@@ -1,9 +1,26 @@
 <h1>Oi, meu nome é Nilton Silva Ferreira 😃</h1>
 
 <div>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=NiltonSilva&color=brightgreen&style=flat" alt="NiltonSilva" /> <img src="https://img.shields.io/badge/Dev-FullStack%20-%23b5179e"></p>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiltonSilva&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonSilva&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+<br/>
+
+<div>
+  <p align='center'>
+  <a href="https://www.linkedin.com/in/niltonsf/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &ensp;
+  <a href="mailto:nsfgeo@hotmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/hotmail-%23D14836.svg?&style=for-the-badge&logo=hotmail&logoColor=white"/></a>
+  &ensp;
+  <a href="https://github.com/NiltonSilva" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white><a/>
+</p>
+</div>
+
 
 <br/>
 
