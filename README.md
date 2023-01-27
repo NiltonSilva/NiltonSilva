@@ -45,7 +45,7 @@
 <br/><br/>
 💾 Já no back end, meu trabalho se dava com .NET e o banco de dados SQL Server.
 <br/><br/>
-🤓 Como todo bom desenvolvedor, além de entregar as atividades soliciatadas, estou estudando para me aprofundar ainda mais nas tecnologias anteriormente citadas. 
+🤓 Como todo bom desenvolvedor, além de entregar as atividades soliciatadas, estou estudando para me aprofundar ainda mais nas tecnologias anteriormente citadas. Recentemente tenho estudando e feito alguns projetos, também, a biblioteca React. 
 </h3>
 
 <div>
