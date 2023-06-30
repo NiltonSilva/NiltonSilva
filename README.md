@@ -44,8 +44,6 @@
 <h3>
 📚 Sou estudante de Análise e Desenvolvimento de Sistemas.
 <br/><br/>
-💻 Trabalho como Desenvolvedor Full Stack Jr na empresa 4G Automação.
-<br/><br/>
 📊 No front end, minha experiência e com framework Angular.
 <br/><br/>
 💾 Já no back end, meu trabalho se dava com .NET e o banco de dados SQL Server.
